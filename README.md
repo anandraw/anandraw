@@ -1,4 +1,5 @@
-### Hi there 👋
+## 🙋‍♂️ About Me
+<a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
 
 <!--
 **anandraw/anandraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
