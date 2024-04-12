@@ -18,7 +18,6 @@
 | 💥 500DaysOfCode+ on @GeeksForGeeks | ⭐ 8M+ Views on LinkedIn |
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
 
@@ -52,6 +51,8 @@
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
+
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/anandraw">
