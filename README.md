@@ -7,6 +7,8 @@
 - 📫 How to reach me **anandrawool9999@gmail.com**
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/anand-rawool-96a8bb1aa/)
 
+  ![anandraw's Stats](https://github-readme-stats.vercel.app/api?username=anandraw&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+
 
 ## ⭐ Summarized My All Achievements 🎉
 | 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
@@ -17,6 +19,7 @@
 | 💥 700DaysOfCode+ on @CodeStudio | ⭐ 46K+ Followers on LinkedIn |
 | 💥 500DaysOfCode+ on @GeeksForGeeks | ⭐ 8M+ Views on LinkedIn |
 </br>
+
 
 
 ## 🚀 Languages and Tools:
@@ -37,9 +40,7 @@
 </br>
 </br>
 
-![anandraw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandraw&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
-![anandraw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anandraw&theme=vue-dark&hide_border=false)
+![anandraw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anandraw&theme=highcontrast&hide_border=false)
 
 </p>
 ## 📈 Graph
