@@ -16,10 +16,7 @@
 | 💥 365DaysOfCode+ on @InterviewBit |  ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
 | 💥 700DaysOfCode+ on @CodeStudio | ⭐ 46K+ Followers on LinkedIn |
 | 💥 500DaysOfCode+ on @GeeksForGeeks | ⭐ 8M+ Views on LinkedIn |
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
-
+</br>
 
 
 ## 🚀 Languages and Tools:
@@ -36,7 +33,11 @@
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/intellij-idea.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/visual-studio--v2.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/96/windows-10.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/mongodb.png"/> </a>  
+    <a href="#"> <img src="https://img.icons8.com/color/96/mongodb.png"/> </a>
+</br>
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
 
 </p>
