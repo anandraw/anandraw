@@ -6,6 +6,7 @@
 - ⚡ For Fun **Piono,Ride**
 - 📫 How to reach me **anandrawool9999@gmail.com**
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/anand-rawool-96a8bb1aa/)
+  </br>
 
   ![anandraw's Stats](https://github-readme-stats.vercel.app/api?username=anandraw&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
