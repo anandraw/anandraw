@@ -41,6 +41,7 @@
     <a href="#"> <img src="https://img.icons8.com/ios/96/express-js.png"/> </a>  
     <a href="#"> <img src="https://img.icons8.com/officel/96/react.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 ## 📈 Graph
 <p align="center">
@@ -53,16 +54,3 @@
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
-
-## ❤️ DSA ZONE
-<p align="left"> 
-<img src="lc.png">
-<img src="gfg.png">
-<img src="ib.png" height="96px" width="96px">
-<img src="cn.png">
-<img src="hr.png">
-<img src="he.png" height="96px" width="96px"> 
-<img src="cc.png" height="96px" width="96px">
-<img src="cf.png">
-<img src="wk.png" height="96px" width="96px">
-</p> 
