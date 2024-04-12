@@ -13,14 +13,12 @@
 ## ⭐ Summarized My All Achievements 🎉
 | 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
 |------------------------------------|----------------------------------------|
-| 💥 75DaysHardPlacementChallenge  | ⭐ Thousand's of Students Guide for Placements and DSA and CP and Development | 
-| 💥 800DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
-| 💥 365DaysOfCode+ on @InterviewBit |  ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
-| 💥 700DaysOfCode+ on @CodeStudio | ⭐ 46K+ Followers on LinkedIn |
-| 💥 500DaysOfCode+ on @GeeksForGeeks | ⭐ 8M+ Views on LinkedIn |
+| 💥 90DaysHardPlacementChallenge  | ⭐ Contributed in smart india hackthaon | 
+| 💥 90days Devlopment | ⭐ Top performer in College |
+| 💥 Solve 90Days @Leetcode |  ⭐ Crack 5+ offer as fresher |
+| 💥 70DaysOfCode+ on @CCodingNinjas | ⭐ 700+ Followers on LinkedIn |
+
 </br>
-
-
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
