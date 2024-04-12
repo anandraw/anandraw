@@ -35,3 +35,7 @@
     <a href="#"> <img src="https://img.icons8.com/officel/96/react.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
 </p>
+## 📈 Graph
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
