@@ -15,10 +15,10 @@
 ## ⭐ Summarized My All Achievements 🎉
 | 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
 |------------------------------------|----------------------------------------|
-| 💥 90DaysHardPlacementChallenge  | ⭐ Contributed in smart india hackthaon | 
+| 💥 160DaysHardPlacementChallenge  | ⭐ Contributed in smart india hackthaon | 
 | 💥 90days Devlopment | ⭐ Top performer in College |
 | 💥 Solve 90Days @Leetcode |  ⭐ Crack 5+ offer as fresher |
-| 💥 70DaysOfCode+ on @CCodingNinjas | ⭐ 700+ Followers on LinkedIn |
+| 💥 70DaysOfCode+ on @CCodingNinjas | ⭐ 2500+ Followers on LinkedIn |
 
 </br>
 
